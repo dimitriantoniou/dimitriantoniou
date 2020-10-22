@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Dimitri - I'm a Boston native turned Texas transplant. After an undergrad in Urban Studies, I completed a 2 year fellowship in entrepreneurship called Venture for America. I moved to San Antonio to join Codeup, a local career accelerator, where I've worked across operations and admissions, built a data science program, led program delivery, launched a Dallas campus, and currently oversee programs and partnerships.
+tl;dr about me: I'm passionate about finding business solutions to socioeconomic problems. Urban Studies @ Penn &#8594; Venture for America &#8594; Codeup | Boston &#8594; Philly &#8594; San Antonio &#8594; Dallas
 
-Working alongisde developers and data scientists exposed me to a lot of cool tech, and I've since become a hobby programmer. Now, I start every day with 30 minutes of programming to wake up my brain. I hope to leverage these technical skills to build my own companies, products, and solutions at the intersection of business and social impact.
+Working alongisde developers and data scientists at Codeup (building a data science program, launching a Dallas campus, helping people change careers) has led me to a side passion as a hobbyist programmer. Now, I start every day with 30 minutes of programming to wake up my brain. I hope to leverage these technical skills to build my own companies, products, and solutions at the intersection of business and social impact.
 
 🌱 **Learning** MySQL and Java to flesh out my basic full-stack knowledge <br>
 🔭 **Working on** a Java program to automate class calendar creation for bootcamps and vocational training programs<br>
