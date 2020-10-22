@@ -3,11 +3,11 @@ My name is Dimitri - I'm a Boston native turned Texas transplant. After an under
 
 Working alongisde developers and data scientists exposed me to a lot of cool tech, and I've since become a hobby programmer. Now, I start every day with 30 minutes of programming to wake up my brain. I hope to leverage these technical skills to build my own companies, products, and solutions at the intersection of business and social impact.
 
-🌱 I’m currently learning MySQL and Java to flesh out my basic full-stack knowledge <br>
-🔭 I’m currently working on a Java program to automate class calendar creation for bootcamps and vocational training programs<br>
-💬 Ask me about tech and entrepreneurship, workforce development, career accelerators<br>
-📫 How to reach me: I'd love to connect on LinkedIn at https://www.linkedin.com/in/dimitri-m-antoniou/<br>
-😄 Pronouns: he/him<br>
+🌱 **Learning** MySQL and Java to flesh out my basic full-stack knowledge <br>
+🔭 **Working on** a Java program to automate class calendar creation for bootcamps and vocational training programs<br>
+**💬 Ask me about** tech and entrepreneurship, workforce development, career accelerators<br>
+📫 **Reach me** on LinkedIn at https://www.linkedin.com/in/dimitri-m-antoniou/<br>
+😄 **Pronouns** are he/him<br>
 
 <!--
 **dimitriantoniou/dimitriantoniou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
