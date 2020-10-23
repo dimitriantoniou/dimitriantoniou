@@ -1,7 +1,7 @@
 ### Hi there 👋
-tl;dr about me: I'm passionate about finding business solutions to socioeconomic problems. Urban Studies @ Penn &#8594; Venture for America &#8594; Codeup | Boston &#8594; Philly &#8594; San Antonio &#8594; Dallas
+tl;dr I'm passionate about finding business solutions to socioeconomic problems by day, and cooking Greek food, playing guitar, reading sci-fi, and camping by night. Urban Studies @ Penn &#8594; Venture for America &#8594; Codeup | Boston &#8594; Philly &#8594; San Antonio &#8594; Dallas
 
-I've been lucky to work alongside incredible developers at Codeup and tackle challenges like building a data science program and launching a Dallas campus. They've inspired my own pursuit of technology and made me into a hobbyist programmer. Now, I start every day with 30 minutes of coding to wake up my brain. I hope to leverage these technical skills to build my own companies, products, and solutions at the intersection of business and social impact.
+I've been lucky to work alongside incredible developers at Codeup, a TX-based career accelerator, and tackle challenges like building a data science program and launching a Dallas campus. They've inspired my own pursuit of technology and made me into a hobbyist programmer. Now, I start every day with 30 minutes of coding to wake up my brain. I hope to leverage these technical skills to build my own companies, products, and solutions at the intersection of business and social impact.
 
 🌱 **Learning** MySQL and Java to flesh out my basic full-stack knowledge <br>
 🔭 **Working on** a Java program to automate class calendar creation for bootcamps and vocational training programs<br>
