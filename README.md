@@ -3,7 +3,7 @@ tl;dr I'm passionate about finding business solutions to socioeconomic problems 
 
 Working alongside talented developers at Codeup, a TX-based career accelerator, has ignited my love of learning and inspired a passion for programming. I hope to leverage these skills to build my own products and companies to solve problems at the intersection of tech and social impact.
 
-:computer: **Experience in** HTML, CSS, JavaScript, jQuery, Java, MySQL <br>
+:computer: **Familiar with** HTML, CSS, JavaScript, jQuery, Java, MySQL <br>
 🌱 **Learning** MySQL and Java for full-stack web development<br>
 🔭 **Working on** a Java program to automate class calendar creation for bootcamps and vocational training programs<br>
 📫 **Reach me** on LinkedIn at https://www.linkedin.com/in/dimitri-m-antoniou/<br>
