@@ -6,6 +6,7 @@ Working alongside talented developers at Codeup, a TX-based career accelerator, 
 :computer: **Familiar with** HTML, CSS, Bootstrap, JavaScript, jQuery, Java, MySQL <br>
 🌱 **Learning** Java and Spring for full-stack development<br>
 🔭 **Working on** a Java program to automate class calendar creation for bootcamps and vocational training programs<br>
+:bookmark: **Exposure to** Python, SASS, React <br>
 📫 **Reach me** on LinkedIn at https://www.linkedin.com/in/dimitri-m-antoniou/<br>
 😄 **Pronouns** are he/him<br>
 
