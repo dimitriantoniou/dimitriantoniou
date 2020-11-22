@@ -10,12 +10,4 @@ Working alongside talented developers at Codeup, a TX-based career accelerator, 
 📫 **Reach me** on LinkedIn at https://www.linkedin.com/in/dimitri-m-antoniou/<br>
 😄 **Pronouns** are he/him<br>
 
-<!--
-**dimitriantoniou/dimitriantoniou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: 
--->
+![DIMITRI'S github stats](https://github-readme-stats.vercel.app/api?username=dimitriantoniou&show_icons=true&theme=dark&count_private=true&hide=stars,issues)
