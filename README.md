@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm passionate about finding business solutions to socioeconomic problems by day, and cooking Greek food, playing guitar, reading sci-fi, and camping by night. Penn &#8594; Venture for America &#8594; Codeup | Boston &#8594; Philly &#8594; San Antonio &#8594; Dallas
 
-Working alongside talented developers at Codeup, a TX-based career accelerator, has re-ignited my love of learning and inspired a passion for programming. I hope to leverage these skills to build my own products and companies to solve problems at the intersection of tech and social impact.
+Working alongside talented developers at Codeup, the TX career accelerator, has re-ignited my love of learning and inspired a passion for programming.
 
 :computer: **Familiar with** HTML, CSS, Bootstrap, JavaScript, jQuery, Java, MySQL, Spring Boot <br>
 🔭 **Working on** a Spring Boot application to automate course calendar creation for bootcamps and vocational programs<br>
