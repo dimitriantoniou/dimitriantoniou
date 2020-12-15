@@ -9,3 +9,5 @@ Working alongside talented developers at Codeup, the TX career accelerator, has 
 😄 **Pronouns** are he/him<br>
 
 ![DIMITRI'S github stats](https://github-readme-stats.vercel.app/api?username=dimitriantoniou&show_icons=true&theme=dark&count_private=true&hide=stars,issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitriantoniou&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dimitriantoniou)  
