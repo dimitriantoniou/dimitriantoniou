@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Python**
 
 - 📫 You can connect with me through 
-<a href="https://linkedin.com/in/dimitri-m-antoniou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimitri-m-antoniou" height="30" width="40" /></a> | <a href="https://medium.com/@dimitriantoniou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dimitriantoniou" height="30" width="40" /></a> |
+<a href="https://linkedin.com/in/dimitri-m-antoniou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dimitri-m-antoniou" height="30" width="40" /></a> || <a href="https://medium.com/@dimitriantoniou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dimitriantoniou" height="30" width="40" /></a> ||
 **dimitri.m.antoniou@gmail.com**
 
 - 😄 My **Pronouns** are he/him<br>
