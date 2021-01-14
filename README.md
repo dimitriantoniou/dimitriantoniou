@@ -3,7 +3,7 @@
 <p align="center">Working alongside talented developers at Codeup, the TX career accelerator, has re-ignited my love of learning and inspired a passion for programming.</p>
 
 
-- 🔭 I’m currently working on a calendar application for vocational training programs [Cohort Calendar](https://github.com/dimitriantoniou/cohort-calendar)
+- 🔭 I’m currently working on a springboot calendar application for vocational training programs [Cohort Calendar](https://github.com/dimitriantoniou/cohort-calendar)
 
 - 🌱 I’m currently learning **Python**
 
@@ -12,8 +12,6 @@
 **dimitri.m.antoniou@gmail.com**
 
 - 😄 My **Pronouns** are he/him<br>
-
-- 📄 Learn about my experiences [https://www.linkedin.com/in/dimitri-m-antoniou/](https://www.linkedin.com/in/dimitri-m-antoniou/)
 
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <img src="https://komarev.com/ghpvc/?username=dimitriantoniou&label=Profile%20views&color=0e75b6&style=flat" />
 
