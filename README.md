@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **dimitri.m.antoniou@gmail.com**
+- 📫 You can reach reach me at **dimitri.m.antoniou@gmail.com**
 
-- 😄 **Pronouns** are he/him<br>
+- 😄 My **Pronouns** are he/him<br>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dimitri-m-antoniou/](https://www.linkedin.com/in/dimitri-m-antoniou/)
+- 📄 Learn about my experiences [https://www.linkedin.com/in/dimitri-m-antoniou/](https://www.linkedin.com/in/dimitri-m-antoniou/)
 
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <img src="https://komarev.com/ghpvc/?username=dimitriantoniou&label=Profile%20views&color=0e75b6&style=flat" />
 
