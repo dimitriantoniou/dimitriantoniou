@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋 I'm Dimitri</h1>
+<h1 align="center">Hi there 👋 I'm Dimitri</h1>
 <h3 align="center">Passionate about finding business solutions to socioeconomic problems by day, and cooking Greek food, playing guitar, reading sci-fi, and camping by night.</h3>
 <p align="center">Working alongside talented developers at Codeup, the TX career accelerator, has re-ignited my love of learning and inspired a passion for programming.</p>
 
