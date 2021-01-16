@@ -3,7 +3,9 @@
 <p align="center">Working alongside talented developers at Codeup, the TX career accelerator, has re-ignited my love of learning and inspired a passion for programming.</p>
 
 
-- 🔭 I’m currently working on a springboot calendar application for vocational training programs [Cohort Calendar](https://github.com/dimitriantoniou/cohort-calendar)
+- 🔭 I’m currently working on a personal website - [dimitriantoniou.com](https://github.com/dimitriantoniou/dimitriantoniou.github.io)
+
+- :white_check_mark: I recently completed a springboot calendar application for vocational training programs - [Cohort Calendar](https://github.com/dimitriantoniou/cohort-calendar)
 
 - 🌱 I’m currently learning **Python**
 
